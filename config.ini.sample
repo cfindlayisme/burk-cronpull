@@ -1,0 +1,4 @@
+[global]
+URL_base = http://someurl 
+username = admin
+password = admin
